@@ -1,0 +1,39 @@
+:root {
+  color-scheme: light dark;
+  --color-background: #0f172a;
+  --color-surface: rgba(15, 23, 42, 0.65);
+  --color-surface-light: rgba(30, 41, 59, 0.8);
+  --color-card: rgba(255, 255, 255, 0.07);
+  --color-border: rgba(148, 163, 184, 0.25);
+  --color-primary: #38bdf8;
+  --color-primary-strong: #0284c7;
+  --color-secondary: #a855f7;
+  --color-text: #e2e8f0;
+  --color-text-dim: rgba(226, 232, 240, 0.7);
+  --shadow-soft: 0 30px 50px rgba(15, 23, 42, 0.45);
+  --radius-lg: 22px;
+  --radius-md: 16px;
+  --radius-sm: 12px;
+  --gradient-header: linear-gradient(135deg, rgba(56, 189, 248, 0.85), rgba(168, 85, 247, 0.85));
+  --gradient-assistant: linear-gradient(135deg, rgba(56, 189, 248, 0.9), rgba(59, 130, 246, 0.9));
+  --gradient-user: linear-gradient(135deg, rgba(244, 114, 182, 0.95), rgba(249, 115, 22, 0.95));
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: radial-gradient(circle at top, rgba(56, 189, 248, 0.2), transparent 55%),
+    radial-gradient(circle at bottom, rgba(168, 85, 247, 0.18), transparent 45%),
+    #020617;
+  color: var(--color-text);
+}
+
+a {
+  color: inherit;
+}

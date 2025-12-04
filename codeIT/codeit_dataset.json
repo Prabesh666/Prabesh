@@ -1,0 +1,312 @@
+{
+  "company": {
+    "name": "Code IT",
+    "tagline": "Nepal’s trusted name for affordable, skill-based IT training",
+    "about": "At Code IT, we believe financial barriers should never stop learning. We provide high-quality, affordable IT education, empowering students with the skills they need to succeed in the tech industry.",
+    "location": "Prithvi Path, Dharan, Nepal",
+    "contact": {
+      "email": "info@codeit.com.np",
+      "phones": ["025-575163", "9862130505"],
+      "address": "Prithvi Path, Dharan",
+      "working_hours": "Sun-Fri 10:00 am – 05:00 pm"
+    },
+    "features": [
+      "online and onsite learning",
+      "project-based learning",
+      "live mentorship",
+      "internship opportunities",
+      "lifetime support",
+      "career support",
+      "affordable pricing",
+      "certification"
+    ],
+    "mentors": [
+      {"name": "Er. Sajal Shrestha", "role": "CEO/Founder", "experience": "27+ Years"},
+      {"name": "Er. Kushal Adhikari", "role": "Sr. UI/UX Designer, Acid Integration, Canada", "experience": "6+ Years"},
+      {"name": "Er. Bhuwan Ghimire", "role": "Python DevOps Developer, NSDevil, South Korea", "experience": "6+ Years"},
+      {"name": "Er. Samrajya Shrestha", "role": "Senior Web Developer, Django TechAccelerator, UK", "experience": "6+ Years"},
+      {"name": "Er. Kripananda Yadav", "role": "QA Engineer, F1Soft International, Nepal", "experience": "9+ Years"},
+      {"name": "Ashish Shakya", "role": "Sr. Graphic Designer, ANS Creation Pvt. Ltd., Nepal", "experience": "8+ Years"},
+      {"name": "Prakash Tajpuriya", "role": "Sr. Full Stack Developer, Code IT, Nepal", "experience": "5+ Years"},
+      {"name": "Sudam Shrestha", "role": "Sr. Full Stack Developer, Code IT, Nepal", "experience": "5+ Years"},
+      {"name": "Milan Rai", "role": "Sr. Graphic/UI-UX Designer, Code IT, Nepal", "experience": "5+ Years"},
+      {"name": "Bishal Rai", "role": "Digital Marketing Specialist, easy1Up, Nepal", "experience": "5+ Years"},
+      {"name": "Sita Katuwal", "role": "MS Office Instructor, Code IT, Nepal", "experience": "5+ Years"},
+      {"name": "Yunesh Shrestha", "role": "Flutter Developer, Code IT, Nepal", "experience": "5+ Years"},
+      {"name": "Er. Sanjay Mahato", "role": "CEH V11 Certified, Code IT, Nepal", "experience": "5+ Years"},
+      {"name": "Yogendra Magar", "role": "Senior Flutter Developer, Code IT, Nepal", "experience": "5+ Years"},
+      {"name": "Benup Pradhan", "role": "Tally Instructor, Code IT, Nepal", "experience": "5+ Years"},
+      {"name": "Mukesh Basnet", "role": "Tally Instructor, Code IT, Nepal", "experience": "5+ Years"}
+    ]
+  },
+  "courses": {
+    "programming": [
+      {
+        "title": "DevOps Training",
+        "price": "Rs.24,500",
+        "url": "https://codeit.com.np/programming-courses/devops-training"
+      },
+      {
+        "title": "Core Python Programming with Project Work",
+        "price": "Rs.1,499 (discounted from Rs.16,500)",
+        "url": "https://codeit.com.np/programming-courses/core-python-programming"
+      },
+      {
+        "title": "C Programming",
+        "price": "Rs.8,500",
+        "url": "https://codeit.com.np/programming-courses/c-programming"
+      },
+      {
+        "title": "C++ Programming",
+        "price": "Rs.8,500",
+        "url": "https://codeit.com.np/programming-courses/cpp-programming"
+      },
+      {
+        "title": "Java Programming",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/programming-courses/java-programming"
+      },
+      {
+        "title": "Git & GitHub Training",
+        "price": "Rs.2,500",
+        "url": "https://codeit.com.np/programming-courses/git-github-training"
+      }
+    ],
+    "artificial_intelligence": [
+      {
+        "title": "Data Science with Python",
+        "price": "Rs.30,000",
+        "url": "https://codeit.com.np/artificial-intelligence-courses/data-science-with-python"
+      },
+      {
+        "title": "Prompt Engineering, Hugging Face & AI Tools Workshop",
+        "price": "Rs.8,000",
+        "url": "https://codeit.com.np/artificial-intelligence-courses/prompt-engineering"
+      },
+      {
+        "title": "Generative AI",
+        "price": "Rs.30,000",
+        "url": "https://codeit.com.np/artificial-intelligence-courses/generative-ai"
+      }
+    ],
+    "web_development": [
+      {
+        "title": "MERN Stack",
+        "price": "Rs.24,500",
+        "url": "https://codeit.com.np/web-development-courses/mern-stack"
+      },
+      {
+        "title": "Full Stack Web Development in Laravel",
+        "price": "Rs.2,499 (discounted from Rs.24,500)",
+        "url": "https://codeit.com.np/web-development-courses/laravel"
+      },
+      {
+        "title": "React with Next.js",
+        "price": "Rs.24,500",
+        "url": "https://codeit.com.np/web-development-courses/react-nextjs"
+      },
+      {
+        "title": "Node.js Express & MongoDB with AI",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/web-development-courses/nodejs-express-mongodb-ai"
+      },
+      {
+        "title": "Python with Django",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/web-development-courses/python-django"
+      },
+      {
+        "title": "Node.js",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/web-development-courses/nodejs"
+      },
+      {
+        "title": "WordPress Training",
+        "price": "Rs.12,500",
+        "url": "https://codeit.com.np/web-development-courses/wordpress"
+      },
+      {
+        "title": "Nuxt 3 Framework",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/web-development-courses/nuxt3"
+      }
+    ],
+    "designing_and_media": [
+      {
+        "title": "Web Design Course",
+        "price": "Rs.8,500",
+        "url": "https://codeit.com.np/designing-courses/web-design"
+      },
+      {
+        "title": "Figma to React",
+        "price": "Rs.8,500",
+        "url": "https://codeit.com.np/designing-courses/figma-to-react"
+      },
+      {
+        "title": "UI/UX Certification",
+        "price": "Rs.1,499 (discounted from Rs.16,500)",
+        "url": "https://codeit.com.np/designing-courses/ui-ux-certification"
+      },
+      {
+        "title": "Adobe Illustrator",
+        "price": "Rs.8,500",
+        "url": "https://codeit.com.np/designing-courses/adobe-illustrator"
+      },
+      {
+        "title": "Graphic Design (Photoshop)",
+        "price": "Rs.8,500",
+        "url": "https://codeit.com.np/designing-courses/graphic-design"
+      },
+      {
+        "title": "Video Editing",
+        "price": "Rs.6,500",
+        "url": "https://codeit.com.np/designing-courses/video-editing"
+      },
+      {
+        "title": "Adobe InDesign",
+        "price": "Rs.4,500",
+        "url": "https://codeit.com.np/designing-courses/adobe-indesign"
+      }
+    ],
+    "mobile_development": [
+      {
+        "title": "Flutter Development",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/mobile-courses/flutter"
+      }
+    ],
+    "digital_marketing": [
+      {
+        "title": "Social Media Marketing",
+        "price": "Rs.1,499 (discounted from Rs.16,500)",
+        "url": "https://codeit.com.np/digital-marketing-courses/social-media-marketing"
+      },
+      {
+        "title": "Digital Marketing",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/digital-marketing-courses/digital-marketing"
+      }
+    ],
+    "other_courses": [
+      {
+        "title": "Database Management System (SQL)",
+        "price": "Rs.699 (discounted from Rs.8,500)",
+        "url": "https://codeit.com.np/other-courses/dbms-sql"
+      },
+      {
+        "title": "Cyber Security Defensive",
+        "price": "Rs.1,999 (discounted from Rs.35,000)",
+        "url": "https://codeit.com.np/other-courses/cyber-security-defensive"
+      },
+      {
+        "title": "Advanced Excel",
+        "price": "Rs.1,499 (discounted from Rs.12,500)",
+        "url": "https://codeit.com.np/other-courses/advanced-excel"
+      },
+      {
+        "title": "CCNA Certification Training",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/other-courses/ccna"
+      },
+      {
+        "title": "MikroTik Certified Network Associate (MTCNA)",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/other-courses/mtcna"
+      },
+      {
+        "title": "Linux for Networking & Cyber Security",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/other-courses/linux-networking"
+      },
+      {
+        "title": "AutoCAD 2D Training",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/other-courses/autocad-2d"
+      },
+      {
+        "title": "CCNP Certification Training",
+        "price": "Rs.24,500",
+        "url": "https://codeit.com.np/other-courses/ccnp"
+      },
+      {
+        "title": "QA Manual Testing Module I",
+        "price": "Rs.25,000",
+        "url": "https://codeit.com.np/other-courses/qa-manual"
+      },
+      {
+        "title": "QA Automation Module II",
+        "price": "Rs.25,000",
+        "url": "https://codeit.com.np/other-courses/qa-automation"
+      },
+      {
+        "title": "Advanced 3D Animation & Rendering",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/other-courses/3d-animation"
+      },
+      {
+        "title": "Vue.js Course",
+        "price": "Rs.16,500",
+        "url": "https://codeit.com.np/other-courses/vuejs"
+      },
+      {
+        "title": "Tally Prime",
+        "price": "Rs.3,500",
+        "url": "https://codeit.com.np/other-courses/tally-prime"
+      }
+    ]
+  },
+  "course_structure": {
+    "session_length": "14 Days per session",
+    "daily_duration": "1.5 hours",
+    "benefits": [
+      "affordable installments",
+      "flexibility to pause & resume",
+      "focused learning",
+      "faster progress",
+      "lifetime support"
+    ],
+    "reference": "https://codeit.com.np/blog/why-code-it-breaks-courses-into-14-day-sessions"
+  },
+  "projects": [
+    {
+      "title": "E-Commerce Platform",
+      "course": "MERN Stack",
+      "description": "A full-featured online store with product listings, cart, and payment integration."
+    },
+    {
+      "title": "Hospital Management System",
+      "course": "Java Programming",
+      "description": "Desktop application for managing patient records, appointments, and billing."
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "course": "Web Design Course",
+      "description": "Responsive portfolio site to showcase skills and projects."
+    },
+    {
+      "title": "Task Management App",
+      "course": "React with Next.js",
+      "description": "A productivity tool with drag-and-drop tasks and real-time updates."
+    },
+    {
+      "title": "Student Information System",
+      "course": "Python with Django",
+      "description": "Web portal for managing student data, attendance, and grades."
+    },
+    {
+      "title": "AI Chatbot Integration",
+      "course": "Data Science with Python",
+      "description": "Building a simple chatbot using NLP techniques and Python libraries."
+    },
+    {
+      "title": "Inventory Management System",
+      "course": "C# .NET",
+      "description": "Windows-based software for tracking stock levels, sales, and orders."
+    },
+    {
+      "title": "Real Estate Website",
+      "course": "Full Stack Web Development in Laravel",
+      "description": "Property listing platform with search filters and agent contact forms."
+    }
+  ]
+}
